@@ -37,7 +37,7 @@ body{
     font-size: 2.1rem;
 }
 .full-banner{
-    background: url("../images/banner1.jpg") no-repeat;
+    background: url("banner1.jpg") no-repeat;
     height: 400px;
     background-size: cover;
 }
@@ -103,7 +103,7 @@ body{
     margin: 0;
 }
 .address-cat ul{
-    list-style-image: url('../images/icon.png');
+    list-style-image: url('icon.png');
     padding: 0 20px;
     margin: 0;
 }
